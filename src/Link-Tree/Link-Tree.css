@@ -1,0 +1,68 @@
+.link-card{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    height: 50px;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0, 0.7);
+    cursor: pointer;
+}
+
+.link-card:hover{
+    box-shadow: 2px 2px 3px 3px rgb(124, 122, 122);
+}
+
+.link-handle-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.img-card{
+    height: 30px;
+    padding:5px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 2px 2px rgb(17, 17, 17);
+}
+
+.handle-name{
+    margin-top: -5px;
+}
+
+.username{
+    font-size: 20px;
+    margin-left: 20px;
+}
+  
+.hyperlink{
+    text-decoration: none;
+    color: black;
+}
+
+.bg-linkedin{
+    background-color: #5475a3;
+}
+
+.bg-github{
+    background: #8c8d8f; 
+}
+  
+.bg-twitter{
+    background: #5092f0; 
+}
+
+.bg-facebook{
+    background-color: #0e4797;
+}
+
+.bg-instagram{
+    background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+}
+
+.bg-snapchat{
+    background: #f5f382;
+}
+  
